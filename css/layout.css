@@ -1,0 +1,19 @@
+/* *********
+    基本样式
+  ***********/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #cad;
+}
+wrap {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*顶部*/
+.top {
+    height: 30px;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+}
